@@ -1,0 +1,25 @@
+{
+  "name": "js-algorithm",
+  "version": "1.0.0",
+  "description": "some useful algorithms that use javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saojun1024/js-algorithm.git"
+  },
+  "keywords": [
+    "algorithm",
+    "javascript"
+  ],
+  "author": "saojun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saojun1024/js-algorithm/issues"
+  },
+  "homepage": "https://github.com/saojun1024/js-algorithm#readme",
+  "dependencies": {
+  }
+}
